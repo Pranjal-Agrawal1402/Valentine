@@ -24,7 +24,7 @@ This project is built using simple yet powerful web technologies:
 To experience "Will You Be My Valentine?", simply visit [https://github.com/Pranjal-Agrawal1402/Valentine.git](https://github.com/Pranjal-Agrawal1402/Valentine.git) from any modern web browser.
 
 
-[[https://github.com/Pranjal-Agrawal1402/Valentine.git](https://pranjal-agrawal1402.github.io/Valentine/)]  (Live Demo)
+[[[https://github.com/Pranjal-Agrawal1402/Valentine.git](Live demo)](https://pranjal-agrawal1402.github.io/Valentine/)]  (Live Demo)
 
 ## How to Contribute
 
